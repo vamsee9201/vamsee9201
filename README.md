@@ -49,8 +49,8 @@ drwxr-xr-x  10+ production AI systems delivered
 <table align="center">
 <tr>
 <td><img src="https://img.shields.io/badge/📱_+1_469_504_6242-FF6B6B?style=for-the-badge&labelColor=2C3E50&color=E74C3C"/></td>
-<td><img src="https://img.shields.io/badge/📧_vamseekrishna9201@gmail.com-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=1ABC9C"/></td>
-<td><img src="https://img.shields.io/badge/📍_Wylie,_TX-F39C12?style=for-the-badge&labelColor=2C3E50&color=E67E22"/></td>
+<td><img src="https://img.shields.io/badge/📧_vamseekrishnakotha2@gmail.com-4ECDC4?style=for-the-badge&labelColor=2C3E50&color=1ABC9C"/></td>
+<td><img src="https://img.shields.io/badge/📍_Richardson,_TX-F39C12?style=for-the-badge&labelColor=2C3E50&color=E67E22"/></td>
 </tr>
 </table>
 
@@ -121,8 +121,8 @@ timeline
     2018 : Bachelor of Technology Started
          : Computer Science at VIT
          : Foundation in Software Development
-    2022 : Business Analyst Role
-         : VahVah India
+    2021 : Data Scientist Role
+         : Mphasis India
          : Tableau Analytics & Optimization
     2023 : Masters Program Began
          : UT Dallas Business Analytics & AI
@@ -177,18 +177,21 @@ timeline
 <tr>
 <td width="50%" valign="top">
 
-### 📊 **Business Analyst**
-**`VahVah • India • Jun 2022 – Dec 2022`**
+### 📊 **Data Scientist**
+**`Mphasis • India • Jan 2021 – Dec 2022`**
 
 <img src="https://img.shields.io/badge/📈_Analytics-F39C12?style=flat-square&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/🎨_Visualization-E74C3C?style=flat-square&labelColor=1a1b27"/>
 
-- **Collaborated with digital marketing teams** to analyze lead quality and optimize targeting strategies, implementing data-driven segmentation that led to **more efficient sales call prioritization** and improved conversion rates
-- **Developed interactive Tableau dashboards** providing real-time visibility into sales pipeline metrics, lead sources, and agent performance, enabling management to make informed strategic decisions
-- **Conducted behavioral analysis** on customer interaction patterns, identifying key conversion drivers and bottlenecks that provided **actionable insights improving sales agent performance** and customer engagement strategies
-- **Implemented A/B testing frameworks** for marketing campaigns, measuring impact across multiple channels and providing quantitative recommendations that optimized marketing spend allocation
+- **Developed machine learning models** for classification, regression, and predictive analytics using Python, Pandas, NumPy, Scikit-learn, and XGBoost, improving model-driven decision support by approximately 18%.
+- **Performed data preprocessing,** exploratory analysis, feature engineering, and statistical analysis using Python, SQL, and Pandas, reducing data preparation effort by approximately 25% across recurring analytical workflows.
+- **Built automated ETL and data-preparation pipelines** using Python and SQL, integrating structured and semi-structured data sources and reducing manual data-processing time by approximately 30%.
+- **Developed time-series forecasting models** using ARIMA, Prophet, and Scikit-learn to analyze demand patterns and forecast
+business metrics, improving forecast reliability by approximately 15%.
+- **Designed interactive Power BI dashboards**  using SQL, DAX, and Power Query, consolidating business KPIs and reducing recurring reporting turnaround time by approximately 25%.
 
-**Technologies:** Tableau • SQL • Statistical Analysis • A/B Testing • Behavioral Analytics
+
+**Technologies:** Python • SQL • Pandas • NumPy • Statistics • Scikit-learn • XGBoost • ARIMA • Prophet • Power BI • DAX • Power Query
 
 </td>
 <td width="50%" valign="top">
