@@ -24,7 +24,7 @@
 ```bash
 ┌─[vamsee@ai-terminal]─[~/professional_identity]
 └──╼ $ whoami
-Vamsee Krishna Kotha • Data Scientist - AI • Multi-Agent Systems Architect
+Vamsee Krishna Kotha • AI Engineer • Multi-Agent Systems Architect
 
 ┌─[vamsee@ai-terminal]─[~/career_stats]
 └──╼ $ ls -la achievements/
