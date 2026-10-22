@@ -58,7 +58,7 @@ drwxr-xr-x  10+ production AI systems delivered
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsee-krishna-kotha)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamsee9201)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamseekrishna9201@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamseekrishnakotha2@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vamsee9201.github.io)
 
 </div>
